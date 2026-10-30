@@ -1,6 +1,6 @@
 # PII & Sensitive Data Scanner
 
-A beginner-friendly Python project that scans text files for likely personal information and exposed secrets. It creates a CSV findings register and an HTML report with masked evidence, severity, counts, a simple risk score, and suggested remediation.
+A beginner-friendly Python project that scans text files for likely personal information and exposed secrets. It creates a CSV findings register report with masked evidence, severity, counts, a simple risk score, and suggested remediation.
 
 ## Requirements
 - Python 3.10+
@@ -19,7 +19,7 @@ Windows alternative:
 py scanner.py
 ```
 
-Open `reports/report.html` in a browser. The CSV register is `reports/findings.csv`.
+The CSV register is `reports/findings.csv`.
 
 ## Scan your own authorized test folder
 
@@ -42,4 +42,4 @@ This is a learning prototype. It uses regular expressions, so false positives an
 
 ## CV bullet (after you have run and understood it)
 **PII & Sensitive Data Scanner | Python**
-- Built a Python tool to flag likely personal data and exposed secrets in text files, mask evidence, prioritize findings by severity, and export CSV/HTML reports with remediation guidance.
+- Built a Python tool to flag likely personal data and exposed secrets in text files, mask evidence, prioritize findings by severity, and export CSV reports with remediation guidance.
