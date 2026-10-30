@@ -1,0 +1,2 @@
+__pycache__/\n*.py[cod]\nreports/*\n!reports/.gitkeep\n
+reports/findings.csv

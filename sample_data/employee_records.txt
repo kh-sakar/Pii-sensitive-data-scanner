@@ -1,0 +1,5 @@
+Synthetic employee onboarding examples — fictional data only
+Sakar Demo | ssk.demo@example.com | Phone: +977-9801234567 | NID: NID-AB12345678
+Bishwash Sample | bishwashh.sample@example.org | Phone: 01-555-0199
+Test User | test.user@example.net | password=DemoPass123! | api_key=DEMO_KEY_1234567890
+Payment QA | qa@example.com | Test card number: 4111 1111 1111 1111

@@ -1,0 +1,8 @@
+{
+  "environment": "synthetic-demo",
+  "owner": "security-training",
+  "support_email": "helpdesk@example.org",
+  "service": "demo-app",
+  "api_key": "DEMO_KEY_1234567890",
+  "password": "NotARealPassword123"
+}
